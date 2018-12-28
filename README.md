@@ -13,3 +13,8 @@
   - Day_008: Dataframe 練習(concate, cut, apply, groupby)
   - Day_009: What is correlation??
   - Day_010: Correlation practice
+  - Day_011: KDE plot
+  - Day_012: Discretizing
+  - Day_013: Discretizing practice
+  - Day_014: Subplot
+  - Day_015: sns + heatmap
