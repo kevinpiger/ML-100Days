@@ -18,3 +18,7 @@
   - Day_013: Discretizing practice
   - Day_014: Subplot
   - Day_015: sns + heatmap
+  - Day_016: Kaggle資料上傳練習
+  - Day_017: 特徵工程介紹
+  - Day_018: 缺失值填補
+  - Day_019: 標準化
